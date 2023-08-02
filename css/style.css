@@ -15,7 +15,7 @@
   
 ul.footer_list {
     list-style: none;
-    padding-left: 0px;
+    padding: 0px;
   }
   ul.footer_list li {
     color: rgba(0, 0, 0, 0.5);
@@ -23,6 +23,10 @@ ul.footer_list {
     font-weight: 500;
   }
   
+.container{
+  float: inline-end;
+}
+
   ul.footer_list li.phone {
     font-size: 22px;
       color: rgba(0, 0, 0, 1);

@@ -161,3 +161,7 @@ ul.footer_list {
   .grow:hover {
       height: 115px; /* This is the height on hover */
   }
+
+  .grow1{
+    size: 10px;
+  }
